@@ -1,7 +1,7 @@
 # 全网最硬核、方向最全面、最经典、最新的计算机软件开发电子书大全（1000多本电子书免费下载）
-### [一、初衷:](#fz) <a id="fz" > 目前下载电子书不方便，搜集1000多本电子书由我一个人维护，看到如此辛苦给我个**Star**吧！，后面会一直维护，最优质的电子书为大家服务。</a>
+### [一、初衷:](#fz) <a id="fz" > 网上下电子书经常搞得电脑中毒，这不搜集1000多本硬核电子书，为大家提供服务，目前由我一人维护，后续一定会持续更新，让内容更加丰富和饱满，看到我如此辛苦给我个**Star**吧！</a>
 
-### [二、简介:](#jj) <a id="jj" > 目前涉及的电子书方向有C/C++、php、Go、C#、python、R语言、java基础、java服务端、前端、小程序、uniapp、跨平台、Android/ios、数据结构和算法、面试、linux入门、linux c/c++服务端、嵌入式、运维、linux内核、linux内核、linux驱动、底层操作系统、计算机网络、设计模式、数据库、大数据、云计算、区块链、windows开发、游戏开发、安全与逆向、并发编程、架构设计、重构优化、鸿蒙系统开发、机器学习、深度学习、matlab、计算机视觉、数据挖掘、自然语言处理、数字图像处理、机器人开发等主流计算机开发40多个硬核方向。</a>
+### [二、简介:](#jj) <a id="jj" > 目前涉及的电子书方向有C/C++、php、Go、C#、python、R、kotlin、java、java服务端、前端、小程序、uniapp、跨平台、Android/ios、数据结构和算法、面试、linux入门、linux c/c++服务端、嵌入式、运维、linux内核、linux内核、linux驱动、底层操作系统、计算机网络、设计模式、数据库、大数据、云计算、区块链、windows开发、游戏开发、安全与逆向、并发编程、架构设计、重构优化、鸿蒙系统开发、机器学习、深度学习、matlab、计算机视觉、数据挖掘、自然语言处理、数字图像处理、机器人开发等主流计算机开发40多个硬核方向。</a>
 ### [三、技术关键词:](#jsgjc) <a id="jsgjc" ></a>
 
 | [React](#jj) | [vue](#jj) | [node.js](#jj) | [Javascript](#jj) | [React Native](#jj) | [jQuery](#jj) | [AngularJs](#jj) | [html](#jj) | 
@@ -23,10 +23,11 @@
 |  [无线渗透](#jj) | [Web安全](#jj) | [Android安全](#jj) |[ios安全](#jj)| [OAuth 2](#jj)  | [Wireshark](#jj) |[Web渗透](#jj) |[黑客攻防](#jj)  
 |  [反病毒](#jj) | [Windows](#jj) |[Windows图形](#jj) |[Windows网络](#jj)| [Windows驱动](#jj)  | [Windows内核](#jj) |[Windows应用](#jj) |[Windows系统](#jj) |
 
-### [三、如何获取资料:](#rhhqzl) <a id="rhhqzl" ></a> 
+### [三、如何获取海量资料:](#rhhqzl) <a id="rhhqzl" ></a> 
 加我微信公众号(**左图**)，会提示你输入开发方向数字就可以获取，获取失败或急需资源可以加我微信(**右图**)，本人承诺下面出现的电子书我电脑本地都有。<br/>
 ![image](https://user-images.githubusercontent.com/14906970/143460350-236876a1-e6b5-4743-be9c-ba7ecab8ff7d.png)
 ![image](https://user-images.githubusercontent.com/14906970/143459857-cfee08c6-7034-413a-9e2e-f672bb374c7b.png)
+
 
 
 ### [四、电子书汇总:](#dzshz) <a id="dzshz" ></a>
