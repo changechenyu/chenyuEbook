@@ -6,16 +6,16 @@
 
 | [React](#jj) | [vue](#jj) | [node.js](#jj) | [Javascript](#jj) | [React Native](#jj) | [jQuery](#jj) | [AngularJs](#jj) | [html](#jj) | 
 | :--: | :--: |:--: | :--: |:--: | :--: |:--: | :--: |
-| [css](#jj) |[小程序](#jj)| [Flutter](#jj)  | [uniapp](#jj) |[es6](#jj) |[Android](#jj) |[kotlin](#jj) | [ios](#jj) | [swift](#jj) |[ios](#jj) |
-| [java虚拟机](#jj)  |[java](#jj) | [java并发](#jj)| [SpringMVC](#jj) |[Spring](#jj) |[SpringBoot](#jj) |[Spring Cloud](#jj) |[Mybatis](#jj) |[Kafka](#jj) |[Docker](#jj) |
-| [RabbitMQ](#jj) |[Dubbo](#jj) | [Solr](#jj)| [Lucene](#jj)  | [Elasticsearch](#jj) |[Memcached](#jj) |[Redis](#jj) |[MongoDB](#jj) |[Zookeeper](#jj) |[分布式](#jj) |
-| [Nginx](#jj) |[Kubenetes](#jj) |[Flutter](#jj)  | [uniapp](#jj) |[es6](#jj) |[Android](#jj) |[kotlin](#jj) | [ios](#jj) | [swift](#jj) |[ios](#jj) |
-| [Flutter](#jj)  | [uniapp](#jj) |[es6](#jj) |[Android](#jj) |[kotlin](#jj) | [ios](#jj) | [swift](#jj) |[ios](#jj) |[java](#jj) | [java并发](#jj)|
-| [Flutter](#jj)  | [uniapp](#jj) |[es6](#jj) |[Android](#jj) |[kotlin](#jj) | [ios](#jj) | [swift](#jj) |[ios](#jj) |[java](#jj) | [java并发](#jj)|
-| [Flutter](#jj)  | [uniapp](#jj) |[es6](#jj) |[Android](#jj) |[kotlin](#jj) | [ios](#jj) | [swift](#jj) |[ios](#jj) |[java](#jj) | [java并发](#jj)|
-| [Flutter](#jj)  | [uniapp](#jj) |[es6](#jj) |[Android](#jj) |[kotlin](#jj) | [ios](#jj) | [swift](#jj) |[ios](#jj) |[java](#jj) | [java并发](#jj)|
-| [Flutter](#jj)  | [uniapp](#jj) |[es6](#jj) |[Android](#jj) |[kotlin](#jj) | [ios](#jj) | [swift](#jj) |[ios](#jj) |[java](#jj) | [java并发](#jj)|
-| [Flutter](#jj)  | [uniapp](#jj) |[es6](#jj) |[Android](#jj) |[kotlin](#jj) | [ios](#jj) | [swift](#jj) |[ios](#jj) |[java](#jj) | [java并发](#jj)|
+| [css](#jj) |[小程序](#jj)| [Flutter](#jj)  | [uniapp](#jj) |[es6](#jj) |[Android](#jj) |[kotlin](#jj) | [ios](#jj) | 
+| [swift](#jj) | [JVM](#jj)  |[java](#jj) | [并发](#jj)| [SpringMVC](#jj) |[Spring](#jj) |[SpringBoot](#jj) |[Spring Cloud](#jj) |
+| [Mybatis](#jj) |[Kafka](#jj) |[Docker](#jj) |[RabbitMQ](#jj) |[Dubbo](#jj) | [Solr](#jj)| [Lucene](#jj)  | [Elasticsearch](#jj) |
+| [Memcached](#jj) |[Redis](#jj) |[MongoDB](#jj) |[Zookeeper](#jj) |[分布式](#jj) |[Nginx](#jj) |[Kubenetes](#jj) |[Netty](#jj)  |
+|  [Maven](#jj) |[C/C++](#jj) |[STL](#jj) |[Go](#jj) | [PHP](#jj) | [C#](#jj) |[数据结构](#jj) |[算法](#jj)  | 
+| [linux](#jj)  | [运维](#jj) |[linux驱动](#jj) |[linux内核](#jj) |[UNIX网络编程](#jj) | [Apache](#jj) | [swift](#jj) |[ios](#jj) |
+| [Flutter](#jj)  | [uniapp](#jj) |[es6](#jj) |[Android](#jj) |[kotlin](#jj) | [ios](#jj) | [swift](#jj) |[ios](#jj) |
+| [Flutter](#jj)  | [uniapp](#jj) |[es6](#jj) |[Android](#jj) |[kotlin](#jj) | [ios](#jj) | [swift](#jj) |[ios](#jj) |
+| [Flutter](#jj)  | [uniapp](#jj) |[es6](#jj) |[Android](#jj) |[kotlin](#jj) | [ios](#jj) | [swift](#jj) |[ios](#jj) |
+| [Flutter](#jj)  | [uniapp](#jj) |[es6](#jj) |[Android](#jj) |[kotlin](#jj) | [ios](#jj) | [swift](#jj) |[ios](#jj) |
 
 ### [三、如何获取资料:](#rhhqzl) <a id="rhhqzl" ></a>
 
