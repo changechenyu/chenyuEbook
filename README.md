@@ -25,8 +25,9 @@
 
 ### [三、如何获取资料:](#rhhqzl) <a id="rhhqzl" ></a> 
 加我微信公众号(**左图**)，会提示你输入开发方向数字就可以获取，获取失败或急需资源可以加我微信(**右图**)，本人承诺下面出现的电子书我电脑本地都有。<br/>
-![20200819103259266 (2)](https://user-images.githubusercontent.com/14906970/143458854-2ba0cbfd-59b1-4572-aa31-af9af3d23441.jpg)
+![image](https://user-images.githubusercontent.com/14906970/143460350-236876a1-e6b5-4743-be9c-ba7ecab8ff7d.png)
 ![image](https://user-images.githubusercontent.com/14906970/143459857-cfee08c6-7034-413a-9e2e-f672bb374c7b.png)
+
 
 ### [四、电子书汇总:](#dzshz) <a id="dzshz" ></a>
 
