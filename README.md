@@ -15,7 +15,7 @@
 | [TCP/IP](#jj)  | [HTTP](#jj) |[web性能](#jj) |[计算机网络](#jj) |[统计学](#jj) | [线性代数](#jj) | [概率论](#jj) |[微积分](#jj) |
 | [高等数学](#jj)  | [设计模式](#jj) |[es6](#jj) |[mysql](#jj) |[oracle](#jj) | [大数据](#jj) | [Hadoop](#jj) |[Hive](#jj) |
 | [spark](#jj)  | [R语言](#jj) |[Python](#jj) |[云计算](#jj) |[OpenStack](#jj) | [物联网](#jj) | [xshell](#jj) |[深度学习](#jj) |
-| [机器学习](#jj)  | [Matlab](#jj) |[TensorFlow](#jj) |[数据挖掘](#jj) |[推荐系统](#jj) | [计算机视觉](#jj) | [OpenCV3](#jj) |[数字图像处理](#jj) |
+| [机器学习](#jj)  | [Matlab](#jj) |[TensorFlow](#jj) |[数据挖掘](#jj) |[推荐系统](#jj) | [计算机视觉](#jj) | [OpenCV3](#jj) |[图像处理](#jj) |
 | [模式分类](#jj) |[自然语言处理](#jj)| [机器人开发](#jj)  | [ROS系统](#jj) |[运动规划和控制](#jj) |[机器建模](#jj) |[ROSWIKI](#jj) | [导航调优](#jj) | 
 | [爬虫实战](#jj) |[数据分析可视化](#jj)| [数据科学](#jj)  | [自动化](#jj) |[区块链](#jj) |[以太坊](#jj) |[比特币](#jj) | [GPU Gems](#jj) | 
 | [GPU Pro](#jj) |[计算几何](#jj)| [计算机图形学](#jj)  | [游戏开发物理学](#jj) |[游戏引擎](#jj) |[游戏编程模式](#jj) |[重构](#jj) | [OpenGL](#jj) | 
