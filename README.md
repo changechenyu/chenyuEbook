@@ -11,8 +11,9 @@
 |  [Mybatis](#jj) |[Kafka](#jj) |[Docker](#jj) |[RabbitMQ](#jj) |[Dubbo](#jj) | [Solr](#jj)| [Lucene](#jj)  | [Elasticsearch](#jj) |
 |  [Memcached](#jj) |[Redis](#jj) |[MongoDB](#jj) |[Zookeeper](#jj) |[分布式](#jj) |[Nginx](#jj) |[Kubenetes](#jj) |[Netty](#jj)  |
 |  [Maven](#jj) |[C/C++](#c++) |[STL](#jj) |[Go](#phpgo) | [PHP](#phpgo) | [C#](#phpgo) |[数据结构](#jjjg) |[算法](#jjjg)  | 
-|  [linux/运维](#linuxrm)  | [linux c/c++](#linuxcc++) |[linux驱动](#jj) |[linux内核](#jj) |[Unix网络编程](#jj) | [Aupe](#jj) | [编译原理](#jj) |[ARM](#jj) |
+|  [linux](#linuxrm)  | [linux c/c++](#linuxcc++) |[linux驱动](#jj) |[linux内核](#jj) |[Unix网络编程](#jj) | [Aupe](#jj) | [编译原理](#jj) |[ARM](#jj) |
 |  [TCP/IP](#jj)  | [HTTP](#jj) |[web性能](#jj) |[计算机网络](#jj) |[统计学](#jj) | [线性代数](#jj) | [概率论](#jj) |[微积分](#jj) |
+|  [运维](#jj) |[嵌入式](#jj)| [HBase](#jj)  | [Kafka](#jj) |[kubernetes](#jj) |[Flume](#android) |[可视化](#jj) | [汇编语言](#jj) | 
 |  [高等数学](#jj)  | [设计模式](#jj) |[es6](#jj) |[mysql](#jj) |[oracle](#jj) | [大数据](#jj) | [Hadoop](#hadoop) |[Hive](#jj) |
 |  [spark](#jj)  | [R语言](#jj) |[Python](#python) |[云计算](#jj) |[OpenStack](#jj) | [物联网](#jj) | [xshell](#jj) |[深度学习](#jj) |
 |  [机器学习](#jj)  | [Matlab](#jj) |[TensorFlow](#jj) |[数据挖掘](#jj) |[推荐系统](#jj) | [计算机视觉](#jj) | [OpenCV3](#jj) |[图像处理](#jj) |
