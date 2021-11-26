@@ -335,7 +335,7 @@
 + [**《以太坊技术详解与实战》_sample.pdf等2个文件.zip**](#rhhqzl)                      
 + [**web3.js API中文文档.pdf**](#rhhqzl)                                   
  
-### <a id="aidp" >16、机器学习、深度学习、数据挖掘、matlab </a> 
+### <a id="aidp" >16、机器学习、深度学习、数据挖掘、matlab方向电子书大全 </a> 
 + [**《TensorFlow 2.0深度学习算法实战教材》-中文版教材分享.pdf**](#rhhqzl)             
 + [**《机器学习基础教程》中文PDF+英文PDF.rar**](#rhhqzl)                          
 + [**《机器学习实战》.(美)哈林顿(Peter Harrington) .zip**](#rhhqzl)             
@@ -362,6 +362,49 @@
 + [**陈杰《Matlab宝典》.pdf**](#rhhqzl)                                   
 + [**苏金明《Matlab高级编程》.pdf**](#rhhqzl)                                
 
+### <a id="opencv" >17、计算机视觉方向电子书大全 </a> 
++ [**OpenCV3 计算机视觉 Python语言实现（第二版） 乔·米尼奇诺 2016.06.pdf**](#rhhqzl)               
++ [**OpenCV入门教程.pdf**](#rhhqzl)                                                 
++ [**python计算机视觉.pdf**](#rhhqzl)                                                
++ [**Python计算机视觉编程 (Jan Erik Solem著) 中文pdf版.rar**](#rhhqzl)                     
++ [**Realistic Ray Tracing.pdf**](#rhhqzl)                                      
++ [**基于OpenCV的计算机视觉技术实现.pdf**](#rhhqzl)                                         
++ [**计算机视觉——计算理论与算法基础.pdf**](#rhhqzl)                                           
++ [**计算机视觉算法与应用中文版.pdf**](#rhhqzl)                                              
++ [**计算机视觉中的数学方法.pdf**](#rhhqzl)                                                
++ [**技术开发-贝叶斯思维：统计建模的Python学习法（迷你书）.pdf**](#rhhqzl)                             
++ [**冈萨雷斯数字图像处理MATLAB版.中文版.pdf**](#rhhqzl)                                      
++ [**模式分类(英文版)Pattern Classification.pdf**](#rhhqzl)                            
++ [**模式分类（原书第2版）.pdf**](#rhhqzl)                                                
++ [**数字图像处理.pdf**](#rhhqzl)                                                     
++ [**数字图像处理（冈萨雷斯）英文原版.pdf**](#rhhqzl)                                           
++ [**10207 数字图像处理（第三版）（英文版）彩图.pdf**](#rhhqzl)                                   
++ [**Computer Vision Algorithms and Applications.pdf**](#rhhqzl)                
++ [**Computer Vision Models, Learning, and Inference .pdf**](#rhhqzl)           
++ [**Computer Vision,A Modern Approach(中文版).pdf**](#rhhqzl)                     
++ [**Learning OpenCV中文版.pdf**](#rhhqzl)                                         
++ [**Multiple View Geometry in Computer Vision.2nd Edition.pdf**](#rhhqzl)      
+
+
+### <a id="nlp" >18、自然语言处理方向电子书大全</a> 
++ [**Python自然语言处理实战.pdf**](#rhhqzl)                                       
++ [**数学之美_吴军.pdf**](#rhhqzl)                                              
++ [**统计自然语言处理第二版_ 宗成庆.pdf**](#rhhqzl)                                     
++ [**统计自然语言处理基础(中文版).pdf**](#rhhqzl)                                      
++ [**用Python进行自然语言处理(中文)--文字版.pdf**](#rhhqzl)                             
++ [**Natural Language Processing with PyTorch - 2019.pdf**](#rhhqzl)      
+
+
+### <a id="shuxue" >19、数学知识方向电子书大全</a> 
++ [**[线性代数与概率统计].马丽杰.明杰秀.扫描版.pdf**](#rhhqzl)              
++ [**《概率论与数理统计》浙大版（第四版）教材.pdf**](#rhhqzl)                 
++ [**《概率论与数理统计习题全解指南》.浙大版（第四版）.pdf**](#rhhqzl)            
++ [**高等数学高清版 第7版同济大学.pdf.zip**](#rhhqzl)                  
++ [**机器学习初步与微积分概率论.pdf**](#rhhqzl)                        
++ [**漫画统计学入门.pdf**](#rhhqzl)                              
++ [**统计学+pdf.pdf**](#rhhqzl)                              
++ [**统计学习方法(李航).pdf**](#rhhqzl)                           
++ [**math-basics.rar**](#rhhqzl)                          
  
  ### [五、资料脑图:](#zlnt) <a id="zlnt" ></a>
 ![ebooks](https://user-images.githubusercontent.com/14906970/143410747-c7663cba-4441-4561-bfe5-d57322aa2ebe.png)
