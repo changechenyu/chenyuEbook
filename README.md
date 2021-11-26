@@ -302,7 +302,7 @@
 + [**漫画统计学入门.pdf**](#rhhqzl)                                                                            
  
  
- ### <a id="hadoop" >14、云计算电子书大全</a> 
+### <a id="openstack" >14、云计算电子书大全</a> 
 + [**云计算-概念、技术与架构.zip**](#rhhqzl)                                           
 + [**云计算核心技术剖析.pdf**](#rhhqzl)                                              
 + [**云计算架构技术与实践+第2版.pdf**](#rhhqzl)                                         
@@ -313,7 +313,7 @@
 + [**Kubernetes权威指南（纪念版）.zip**](#rhhqzl)   
 
                                 
- ### <a id="hadoop" >15、区块链方向电子书大全</a> 
+### <a id="qkl" >15、区块链方向电子书大全</a> 
 + [**区块链  新经济蓝图及导读.pdf**](#rhhqzl)                                     
 + [**区块链 从数字货币到信用社会.pdf**](#rhhqzl)                                    
 + [**区块链 重塑经济与世界.pdf**](#rhhqzl)                                       
@@ -335,8 +335,32 @@
 + [**《以太坊技术详解与实战》_sample.pdf等2个文件.zip**](#rhhqzl)                      
 + [**web3.js API中文文档.pdf**](#rhhqzl)                                   
  
- 
- 
+### <a id="aidp" >16、机器学习、深度学习、数据挖掘、matlab </a> 
++ [**《TensorFlow 2.0深度学习算法实战教材》-中文版教材分享.pdf**](#rhhqzl)             
++ [**《机器学习基础教程》中文PDF+英文PDF.rar**](#rhhqzl)                          
++ [**《机器学习实战》.(美)哈林顿(Peter Harrington) .zip**](#rhhqzl)             
++ [**机器学习(周志华).pdf**](#rhhqzl)                                      
++ [**机器学习初步与微积分概率论.pdf**](#rhhqzl)                                  
++ [**机器学习基础.pdf**](#rhhqzl)                                         
++ [**机器学习实战.pdf**](#rhhqzl)                                         
++ [**深度学习(Deep Learning中文版).pdf**](#rhhqzl)                         
++ [**Python机器学习经典实例.pdf**](#rhhqzl)                                 
++ [**Python数据分析与挖掘实战.pdf**](#rhhqzl)                                
++ [**zw_数据挖掘概念与技术 第三版(中文版+英文版).zip**](#rhhqzl)                      
++ [**数据挖掘-实用机器学习技术（中文第二版） (1).pdf**](#rhhqzl)                       
++ [**数据挖掘-实用机器学习技术（中文第二版）.pdf**](#rhhqzl)                           
++ [**数据挖掘应用20个案例分析.pdf**](#rhhqzl)                                  
++ [**统计学习方法(李航).pdf**](#rhhqzl)                                     
++ [**推荐系统实践.pdf**](#rhhqzl)                                         
++ [**推荐系统与深度学习.pdf**](#rhhqzl)                                      
++ [**Matlab Primer.pdf**](#rhhqzl)                                  
++ [**MATLAB机器学习.pdf**](#rhhqzl)                                     
++ [**Matlab经典教程——从入门到精通.pdf**](#rhhqzl)                             
++ [**MATLAB数据分析与挖掘实战.pdf**](#rhhqzl)                                
++ [**MATLAB中文手册.pdf**](#rhhqzl)                                     
++ [**[MATLAB揭秘].David.McMahon.pdf**](#rhhqzl)                       
++ [**陈杰《Matlab宝典》.pdf**](#rhhqzl)                                   
++ [**苏金明《Matlab高级编程》.pdf**](#rhhqzl)                                
 
  
  ### [五、资料脑图:](#zlnt) <a id="zlnt" ></a>
