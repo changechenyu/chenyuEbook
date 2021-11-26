@@ -478,7 +478,7 @@
 + [**精通Metasploit渗透测试（第3版）.pdf**](#rhhqzl)                                                   
 + [**逆向工程权威指南（上下册）.pdf**](#rhhqzl)                                                           
 + [**捉虫日记.pdf**](#rhhqzl)                                                                    
-+ [****](#rhhqzl)                                                                            
-+ [****](#rhhqzl)                                                                            
+
+
  ### [五、资料脑图:](#zlnt) <a id="zlnt" ></a>
 ![ebooks](https://user-images.githubusercontent.com/14906970/143410747-c7663cba-4441-4561-bfe5-d57322aa2ebe.png)
