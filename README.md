@@ -30,279 +30,276 @@
 
 
 ### [四、能提供下载服务的电子书汇总:](#allpdf) <a id="allpdf" ></a>
-### <a id="c++" >[1、C/C++方向电子书大全](#c++)</a> <a id="c++" ></a>
+### <a id="c++" >1、C/C++方向电子书大全</a> 
 
-+ [**C和指针（第二版）高清.pdf** ](#rhhqzl)
-+ **C和指针（第二版）高清.pdf**                                         
-+ **C陷阱与缺陷.pdf**                                              
-+ **C专家编程.pdf**                                               
-+ **C语言深度解剖.pdf**                                             
-+ **Effective C  中文版.rar**                                    
-+ **C++ Primer Plus中文版.pdf**                                  
-+ **Effective C++(第三版中文版) - Scott Meyers - 电子工业出版社.pdf**      
-+ **Effective STL（中文版）.pdf**                                  
-+ **LinuxC编程一站式学习.pdf**                                       
-+ **More Effective C++.pdf**                                  
-+ **STL源码剖析（侯捷译）.pdf**                                        
-+ **中文版：C++Primer（第三版）.pdf**                                  
-+ **深度探索C++对象模型.pdf**         
++ [**C和指针（第二版）高清.pdf**](#rhhqzl)                                        
++ [**C陷阱与缺陷.pdf**](#rhhqzl)                                             
++ [**C专家编程.pdf**](#rhhqzl)                                              
++ [**C语言深度解剖.pdf**](#rhhqzl)                                            
++ [**Effective C  中文版.rar**](#rhhqzl)                                   
++ [**C++ Primer Plus中文版.pdf**](#rhhqzl)                                 
++ [**Effective C++(第三版中文版) - Scott Meyers - 电子工业出版社.pdf**](#rhhqzl)     
++ [**Effective STL（中文版）.pdf**](#rhhqzl)                                 
++ [**LinuxC编程一站式学习.pdf**](#rhhqzl)                                      
++ [**More Effective C++.pdf**](#rhhqzl)                                 
++ [**STL源码剖析（侯捷译）.pdf**](#rhhqzl)                                       
++ [**中文版：C++Primer（第三版）.pdf**](#rhhqzl)                                 
++ [**深度探索C++对象模型.pdf**](#rhhqzl)                                            
  
-### <a id="phpgo" >[2、Go和php和C#方向电子书大全](#phpgo)</a> <a id="phpgo" ></a>                                                                                                 
-+ **Go程序设计语言.pdf**                                               
-+ **Go学习笔记（第6版下卷）.pdf**                                          
-+ **go语言圣经.pdf**                                                 
-+ **Go语言实战.pdf**                                                 
-+ **Head First Go.pdf**                                          
-+ **学习Go语言.pdf**                                                 
-+ **Modern PHP  中文版.pdf.zip**                                    
-+ **Z01614PHP核心技术与最佳实践.rar**                                     
-+ **高性能PHP应用开发.pdf**                                             
-+ **细说PHP.pdf**                                                  
-+ **Modern PHP  中文版_13878637_（美）洛克哈特著_2015.10.pdf.zip**          
-+ **C#入门经典 第7版.pdf**                                             
-+ **ThinkInC#.pdf**                                              
-+ **Z01238C#行家设计手册.rar**                                         
-+ **果壳中的C#5.0权威指南.pdf**                                          
+### <a id="phpgo" >2、Go和php和C#方向电子书大全</a>                                                                                                
++ [**Go程序设计语言.pdf**](#rhhqzl)                                         
++ [**Go学习笔记（第6版下卷）.pdf**](#rhhqzl)                                    
++ [**go语言圣经.pdf**](#rhhqzl)                                           
++ [**Go语言实战.pdf**](#rhhqzl)                                           
++ [**Head First Go.pdf**](#rhhqzl)                                    
++ [**学习Go语言.pdf**](#rhhqzl)                                           
++ [**Modern PHP  中文版.pdf.zip**](#rhhqzl)                              
++ [**Z01614PHP核心技术与最佳实践.rar**](#rhhqzl)                               
++ [**高性能PHP应用开发.pdf**](#rhhqzl)                                       
++ [**细说PHP.pdf**](#rhhqzl)                                            
++ [**Modern PHP  中文版_13878637_（美）洛克哈特著_2015.10.pdf.zip**](#rhhqzl)    
++ [**C#入门经典 第7版.pdf**](#rhhqzl)                                       
++ [**ThinkInC#.pdf**](#rhhqzl)                                        
++ [**Z01238C#行家设计手册.rar**](#rhhqzl)                                   
++ [**果壳中的C#5.0权威指南.pdf**](#rhhqzl)                                                   
 
-### <a id="java" >[3、java基础和jvm和java并发方向电子书大全](#java)</a> <a id="java" ></a>                                                                                         
-+ **Java从入门到精通 第三版.pdf**          
-+ **java疯狂讲义.pdf**                
-+ **Thinking In Java第四版中文版.pdf**  
-+ **Java核心技术 卷1中文版 .pdf**         
-+ **Java性能优化权威指南.pdf**            
-+ **Java 并发编程实战.pdf**             
-+ **Java并发编程的艺术.pdf**             
-+ **Java程序员面试宝典.pdf**             
-+ **Java核心技术 卷1英文版 .pdf**         
-+ **Java实战.zip**                  
-+ **深入JAVA虚拟机第二版.pdf**            
+### <a id="java" >3、java基础和jvm和java并发方向电子书大全</a>                                                                                          
++ [**Java从入门到精通 第三版.pdf**](#rhhqzl)           
++ [**java疯狂讲义.pdf**](#rhhqzl)                 
++ [**Thinking In Java第四版中文版.pdf**](#rhhqzl)   
++ [**Java核心技术 卷1中文版 .pdf**](#rhhqzl)          
++ [**Java性能优化权威指南.pdf**](#rhhqzl)             
++ [**Java 并发编程实战.pdf**](#rhhqzl)              
++ [**Java并发编程的艺术.pdf**](#rhhqzl)              
++ [**Java程序员面试宝典.pdf**](#rhhqzl)              
++ [**Java核心技术 卷1英文版 .pdf**](#rhhqzl)          
++ [**Java实战.zip**](#rhhqzl)                   
++ [**深入JAVA虚拟机第二版.pdf**](#rhhqzl)               
 
-### <a id="javaserver" >[4、java服务端方向电子书大全](#javaserver)</a> <a id="javaserver" ></a>  
-+ **Spring Cloud.pdf**                                         
-+ **Spring Cloud 微服务全栈技术与案例解析.pdf**                            
-+ **Spring Cloud与Docker微服务架构实战.pdf**                           
-+ **SpringBoot.pdf**                                           
-+ **SpringMVC学习指南.pdf**                                        
-+ **Spring实战（第4版）.pdf**                                        
-+ **Mybatis教程整理.pdf**                                          
-+ **《Spring Boot 2.0企业级应用开发实战(柳伟卫)》.rar**                      
-+ **Java微服务架构实战.pdf**                                          
-+ **Apache Kafka实战.zip**                                       
-+ **Distributed systems principles and paradigms 2nd edition.pd
-+ **Docker+容器与容器云（第2版）.pdf**                                   
-+ **Docker从入门到实践.pdf**                                         
-+ **Docker微服务架构实战.pdf**                                        
-+ **dubbo官方文档pdf.zip**                                         
-+ **Elasticsearch权威指南（中文版）.pdf**                               
-+ **HBase权威指南(中文版).pdf**                                       
-+ **Introduction to Distributed Algorithms (1).pdf**           
-+ **Kubernetes权威指南（纪念版）.zip**                                  
-+ **Lucene实战中文版第2版.pdf**                                       
-+ **Maven实战.pdf**                                              
-+ **Memcached原理和使用详解.pdf**                                     
-+ **MongoDB权威指南.pdf**                                          
-+ **MongoDB权威指南（第2版）.pdf**                                     
-+ **MongoDB实战.pdf**                                            
-+ **Netty权威指南 第2版.pdf**                                        
-+ **Netty实战(精髓).pdf**                                          
-+ **Nginx高性能Web服务器详解.pdf**                                     
-+ **Nginx开发从入门到精通.pdf**                                        
-+ **Redis开发与运维.pdf**                                           
-+ **Redis入门指南（第2版）.pdf**                                       
-+ **Redis设计与实现.pdf**                                           
-+ **Redis实战.pdf**                                              
-+ **Solr权威指南(上卷) - 副本.pdf**                                    
-+ **Solr权威指南-下卷.pdf**                                          
-+ **Web性能权威指南.pdf**                                            
-+ **Zookeeper_3.3.5.pdf**                                      
-+ **《深入RabbitMQ》.pdf.zip**                                     
-+ **大规模分布式存储系统：原理解析与架构实战.pdf**                                 
-+ **深入理解Nginx：模块开发与架构解析（第2版）.pdf**                             
-+ **深入理解Nginx模块开发与架构解析.pdf**                                   
-+ **深入理解分布式事务.pdf**                                            
-+ **深入学习MongoDB.pdf**                                          
+### <a id="javaserver" >4、java服务端方向电子书大全</a> 
++ [**Spring Cloud.pdf**](#rhhqzl)                                     
++ [**Spring Cloud 微服务全栈技术与案例解析.pdf**](#rhhqzl)                        
++ [**Spring Cloud与Docker微服务架构实战.pdf**](#rhhqzl)                       
++ [**SpringBoot.pdf**](#rhhqzl)                                       
++ [**SpringMVC学习指南.pdf**](#rhhqzl)                                    
++ [**Spring实战（第4版）.pdf**](#rhhqzl)                                    
++ [**Mybatis教程整理.pdf**](#rhhqzl)                                      
++ [**《Spring Boot 2.0企业级应用开发实战(柳伟卫)》.rar**](#rhhqzl)                  
++ [**Java微服务架构实战.pdf**](#rhhqzl)                                      
++ [**Apache Kafka实战.zip**](#rhhqzl)                                   
++ [**Distributed systems principles and paradigms 2nd edition.pdf**](#rhhqzl) 
++ [**Docker+容器与容器云（第2版）.pdf**](#rhhqzl)                               
++ [**Docker从入门到实践.pdf**](#rhhqzl)                                     
++ [**Docker微服务架构实战.pdf**](#rhhqzl)                                    
++ [**dubbo官方文档pdf.zip**](#rhhqzl)                                     
++ [**Elasticsearch权威指南（中文版）.pdf**](#rhhqzl)                           
++ [**HBase权威指南(中文版).pdf**](#rhhqzl)                                   
++ [**Introduction to Distributed Algorithms (1).pdf**](#rhhqzl)       
++ [**Kubernetes权威指南（纪念版）.zip**](#rhhqzl)                              
++ [**Lucene实战中文版第2版.pdf**](#rhhqzl)                                   
++ [**Maven实战.pdf**](#rhhqzl)                                          
++ [**Memcached原理和使用详解.pdf**](#rhhqzl)                                 
++ [**MongoDB权威指南.pdf**](#rhhqzl)                                      
++ [**MongoDB权威指南（第2版）.pdf**](#rhhqzl)                                 
++ [**MongoDB实战.pdf**](#rhhqzl)                                        
++ [**Netty权威指南 第2版.pdf**](#rhhqzl)                                    
++ [**Netty实战(精髓).pdf**](#rhhqzl)                                      
++ [**Nginx高性能Web服务器详解.pdf**](#rhhqzl)                                 
++ [**Nginx开发从入门到精通.pdf**](#rhhqzl)                                    
++ [**Redis开发与运维.pdf**](#rhhqzl)                                       
++ [**Redis入门指南（第2版）.pdf**](#rhhqzl)                                   
++ [**Redis设计与实现.pdf**](#rhhqzl)                                       
++ [**Redis实战.pdf**](#rhhqzl)                                          
++ [**Solr权威指南(上卷) - 副本.pdf**](#rhhqzl)                                
++ [**Solr权威指南-下卷.pdf**](#rhhqzl)                                      
++ [**Web性能权威指南.pdf**](#rhhqzl)                                        
++ [**Zookeeper_3.3.5.pdf**](#rhhqzl)                                  
++ [**《深入RabbitMQ》.pdf.zip**](#rhhqzl)                                 
++ [**大规模分布式存储系统：原理解析与架构实战.pdf**](#rhhqzl)                             
++ [**深入理解Nginx：模块开发与架构解析（第2版）.pdf**](#rhhqzl)                         
++ [**深入理解Nginx模块开发与架构解析.pdf**](#rhhqzl)                               
++ [**深入理解分布式事务.pdf**](#rhhqzl)                                        
++ [**深入学习MongoDB.pdf**](#rhhqzl)                                                                                                     
 
 
-### <a id="python" >[5、python方向电子书大全](#python)</a> <a id="python" ></a>  
-+ **python3数据科学手册.rar**                        
-+ **Python编程快速上手—让繁琐工作自动化 中文pdf完整版 附源码.rar**   
-+ **python编程入门经典电子书 PDF中文版.zip**               
-+ **Python参考手册(第4版).pdf**                      
-+ **Python核心编程 第三版（中文和英文）.pdf.zip**            
-+ **Python机器学习经典实例.pdf**                       
-+ **Python进阶.pdf**                             
-+ **Python爬虫实战入门教程.pdf**                       
-+ **Python数据分析及可视化实操.pdf**                     
-+ **Python数据分析与挖掘实战.pdf.rar**                  
-+ **Python数据处理.zip**                           
-+ **《入门必读：从Python开始学编程》.zip**                  
-+ **第二阶段Python进阶.pdf**                         
-+ **用Python进行自然语言处理(中文)--文字版.pdf**   
+### <a id="python" >5、python方向电子书大全</a>   
++ [**python3数据科学手册.rar**](#rhhqzl)                                    
++ [**Python编程快速上手—让繁琐工作自动化 中文pdf完整版 附源码.rar**](#rhhqzl)               
++ [**python编程入门经典电子书 PDF中文版.zip**](#rhhqzl)                           
++ [**Python参考手册(第4版).pdf**](#rhhqzl)                                  
++ [**Python核心编程 第三版（中文和英文）.pdf.zip**](#rhhqzl)                        
++ [**Python机器学习经典实例.pdf**](#rhhqzl)                                   
++ [**Python进阶.pdf**](#rhhqzl)                                         
++ [**Python爬虫实战入门教程.pdf**](#rhhqzl)                                   
++ [**Python数据分析及可视化实操.pdf**](#rhhqzl)                                 
++ [**Python数据分析与挖掘实战.pdf.rar**](#rhhqzl)                              
++ [**Python数据处理.zip**](#rhhqzl)                                       
++ [**《入门必读：从Python开始学编程》.zip**](#rhhqzl)                              
++ [**第二阶段Python进阶.pdf**](#rhhqzl)                                     
++ [**用Python进行自然语言处理(中文)--文字版.pdf**](#rhhqzl)                          
 
-### <a id="qianduan" >[6、前端方向电子书大全](#python)</a> <a id="python" ></a>  
-+ **深入浅出Nodejs第二版本.pdf**                        
-+ **AngularJS 参考手册.pdf**                        
-+ **AngularJS入门教程(英文版本).pdf**                   
-+ **AngularJS入门教程1.pdf**                        
-+ **AngularJS入门教程2.pdf**                        
-+ **CSS权威指南（第四版）英文.pdf**                        
-+ **CSS实战手册 第四版.pdf**                           
-+ **ES6标准入门（第二版）.pdf**                          
-+ **Flutter技术入门与实战.pdf**                        
-+ **HTML 5 开发精要与实例详解--W3Cfuns.pdf**             
-+ **HTML 5用户指南.pdf**                            
-+ **html5+css3+javascript参考手册.zip**             
-+ **HTML5程序设计（第2版）.pdf**                        
-+ **HTML5移动Web开发指南.pdf**                        
-+ **jQuery实战(第三版).pdf**                         
-+ **React Native 官方文档中文版 - v1.3.pdf**           
-+ **React Native开发指南.pdf**                      
-+ **React精髓.pdf**                               
-+ **React开发实战.pdf**                             
-+ **React入门.pdf**                               
-+ **uni-app从入门到精通-10311421.pdf**                
-+ **Vue API 手册.pdf**                            
-+ **Vue.js 3.0 API 官方手册 中文pdf版(含源码).zip**       
-+ **Vue.js 实战.pdf**                             
-+ **Vue.js面试题整理带答案.pdf**                        
-+ **Vue.js前端开发快速入门.pdf**                        
-+ **JavaScript权威指南(第七版中文扫描版.pdf**            
-+ **《21天精通微信小程序开发》王延平著.pdf**                    
-+ **《锋利的jQuery》.pdf**                           
-+ **从零开始学微信小程序开发.pdf**                          
-+ **小程序开发入门.pdf**                               
-+ **小程序相关流程课件 (1).pdf** 
+### <a id="qianduan" >6、前端方向电子书大全</a>  
++ [**深入浅出Nodejs第二版本.pdf**](#rhhqzl)                      
++ [**AngularJS 参考手册.pdf**](#rhhqzl)                      
++ [**AngularJS入门教程(英文版本).pdf**](#rhhqzl)                 
++ [**AngularJS入门教程1.pdf**](#rhhqzl)                      
++ [**AngularJS入门教程2.pdf**](#rhhqzl)                      
++ [**CSS权威指南（第四版）英文.pdf**](#rhhqzl)                      
++ [**CSS实战手册 第四版.pdf**](#rhhqzl)                         
++ [**ES6标准入门（第二版）.pdf**](#rhhqzl)                        
++ [**Flutter技术入门与实战.pdf**](#rhhqzl)                      
++ [**HTML 5 开发精要与实例详解--W3Cfuns.pdf**](#rhhqzl)           
++ [**HTML 5用户指南.pdf**](#rhhqzl)                          
++ [**html5+css3+javascript参考手册.zip**](#rhhqzl)           
++ [**HTML5程序设计（第2版）.pdf**](#rhhqzl)                      
++ [**HTML5移动Web开发指南.pdf**](#rhhqzl)                      
++ [**jQuery实战(第三版).pdf**](#rhhqzl)                       
++ [**React Native 官方文档中文版 - v1.3.pdf**](#rhhqzl)         
++ [**React Native开发指南.pdf**](#rhhqzl)                    
++ [**React精髓.pdf**](#rhhqzl)                             
++ [**React开发实战.pdf**](#rhhqzl)                           
++ [**React入门.pdf**](#rhhqzl)                             
++ [**uni-app从入门到精通-10311421.pdf**](#rhhqzl)              
++ [**Vue API 手册.pdf**](#rhhqzl)                          
++ [**Vue.js 3.0 API 官方手册 中文pdf版(含源码).zip**](#rhhqzl)     
++ [**Vue.js 实战.pdf**](#rhhqzl)                           
++ [**Vue.js面试题整理带答案.pdf**](#rhhqzl)                      
++ [**Vue.js前端开发快速入门.pdf**](#rhhqzl)                      
++ [**[JavaScript权威指南(第七版)]中文扫描版.pdf**](#rhhqzl)          
++ [**《21天精通微信小程序开发》王延平著.pdf**](#rhhqzl)                  
++ [**《锋利的jQuery》.pdf**](#rhhqzl)                         
++ [**从零开始学微信小程序开发.pdf**](#rhhqzl)                        
++ [**小程序开发入门.pdf**](#rhhqzl)                             
++ [**小程序相关流程课件 (1).pdf**](#rhhqzl)                       
                         
-### <a id="android" >[7、Android方向电子书大全](#android)</a> <a id="android" ></a> 
-+ **Android开发艺术探索.pdf**            
-+ **Android开发应用从入门到精通.pdf**        
-+ **Android群英传.pdf**               
-+ **Android软件安全权威指南_随书代码.zip**     
-+ **Android自定义控件入门与实战.pdf**        
-+ **Flutter技术入门与实战.pdf**           
-+ **Jetpack架构组件从入门到精通.pdf**        
-+ **kotlin-in-chinese.pdf**        
-+ **kotlin-reference-chinese.pdf** 
-+ **React Native 官方文档中文版 .pdf**    
-+ **React Native开发指南.pdf**         
-+ **[Android]应用安全防护和逆向分析.pdf**     
-+ **[Android框架揭秘].金泰延等.扫描版.pdf**   
-+ **第一行代码——Android.pdf**           
-+ **疯狂Android讲义 第3版.pdf**          
-+ **深入理解Android 卷I.pdf**           
-+ **深入理解Android：卷II .pdf**         
+### <a id="android" >7、Android方向电子书大全</a> 
++ [**Android开发艺术探索.pdf**](#rhhqzl)                     
++ [**Android开发应用从入门到精通.pdf**](#rhhqzl)                 
++ [**Android群英传.pdf**](#rhhqzl)                        
++ [**Android软件安全权威指南_随书代码.zip**](#rhhqzl)              
++ [**Android自定义控件入门与实战.pdf**](#rhhqzl)                 
++ [**Flutter技术入门与实战.pdf**](#rhhqzl)                    
++ [**Jetpack架构组件从入门到精通.pdf**](#rhhqzl)                 
++ [**kotlin-in-chinese.pdf**](#rhhqzl)                 
++ [**kotlin-reference-chinese.pdf**](#rhhqzl)          
++ [**React Native 官方文档中文版 .pdf**](#rhhqzl)             
++ [**React Native开发指南.pdf**](#rhhqzl)                  
++ [**[Android]应用安全防护和逆向分析.pdf**](#rhhqzl)              
++ [**[Android框架揭秘].金泰延等.扫描版.pdf**](#rhhqzl)            
++ [**第一行代码——Android.pdf**](#rhhqzl)                    
++ [**疯狂Android讲义 第3版.pdf**](#rhhqzl)                   
++ [**深入理解Android 卷I.pdf**](#rhhqzl)                    
++ [**深入理解Android：卷II .pdf**](#rhhqzl)                      
 
-### <a id="ios" >[8、ios方向电子书大全](#ios)</a> <a id="ios" ></a> 
-+ **《疯狂iOS 讲义(上) Objective-C 2.0与iPhone iPad应用开发基础》.(李刚).PDF.pdf**      
-+ **疯狂iOS 讲义上.pdf**                                                     
-+ **精通iOS开发.第6版.pdf**                                                   
-+ **企业级iOS应用开发实战.pdf**                                                  
-+ **iOS开发进阶.pdf**                                                       
-+ **iOS核心动画高级技巧.pdf**                                                   
-+ **swift iOS应用开发实战.pdf**                                               
-+ **The Swift Programming Language 中文版 - v1.2.pdf**                     
-+ **The Swift Programming Language.pdf**                                
-+ **Effective Objective-C 2.0  编写高质量iOS与OS X代码的52个有效方法.pdf**            
-+ **Flutter技术入门与实战.pdf**                                                
-+ **kkbox-iOS-dev.pdf**                                                 
-+ **Objective-C编程之道：iOS设计模式解析.pdf**                                     
-+ **React Native 官方文档中文版 .pdf**                                         
-+ **React Native开发指南.pdf**                                              
-+ **iOS应用逆向工程(第2版).pdf**      
+### <a id="ios" >8、ios方向电子书大全</a> 
++ [**《疯狂iOS 讲义(上) Objective-C 2.0与iPhone iPad应用开发基础》.(李刚).PDF.pdf**](#rhhqzl)               
++ [**疯狂iOS 讲义上.pdf**](#rhhqzl)                                                              
++ [**精通iOS开发.第6版.pdf**](#rhhqzl)                                                            
++ [**企业级iOS应用开发实战.pdf**](#rhhqzl)                                                           
++ [**iOS开发进阶.pdf**](#rhhqzl)                                                                
++ [**iOS核心动画高级技巧.pdf**](#rhhqzl)                                                            
++ [**swift iOS应用开发实战.pdf**](#rhhqzl)                                                        
++ [**The Swift Programming Language 中文版 - v1.2.pdf**](#rhhqzl)                              
++ [**The Swift Programming Language.pdf**](#rhhqzl)                                         
++ [**Effective Objective-C 2.0  编写高质量iOS与OS X代码的52个有效方法.pdf**](#rhhqzl)                     
++ [**Flutter技术入门与实战.pdf**](#rhhqzl)                                                         
++ [**kkbox-iOS-dev.pdf**](#rhhqzl)                                                          
++ [**Objective-C编程之道：iOS设计模式解析.pdf**](#rhhqzl)                                              
++ [**React Native 官方文档中文版 .pdf**](#rhhqzl)                                                  
++ [**React Native开发指南.pdf**](#rhhqzl)                                                       
++ [**iOS应用逆向工程(第2版).pdf**](#rhhqzl)                                                         
 
- ### <a id="jjjg" >[9、数据结构和算法方向电子书大全](#jjjg)</a> <a id="jjjg" ></a>  
- + **剑指offer.pdf**                  
-+ **啊哈!算法.pdf**                    
-+ **编程珠玑.pdf**                     
-+ **趣学算法.pdf**                     
-+ **数据结构与算法分析-C语言描述.pdf**          
-+ **java版本数据结构.zip**               
-+ **《算法设计手册》第2版 中文版330页.pdf.pdf**  
-+ **程序员面试攻略+第2版.pdf**              
-+ **程序员自我修养.pdf**                  
-+ **妙趣横生的算法  C语言实现.pdf**           
-+ **算法导论（第三版）.pdf**                
-+ **挑战程序设计竞赛(第1版).pdf**   
+ ### <a id="jjjg" >9、数据结构和算法方向电子书大全</a>  
++ [**剑指offer.pdf**](#rhhqzl)                         
++ [**啊哈!算法.pdf**](#rhhqzl)                           
++ [**编程珠玑.pdf**](#rhhqzl)                            
++ [**趣学算法.pdf**](#rhhqzl)                            
++ [**数据结构与算法分析-C语言描述.pdf**](#rhhqzl)                 
++ [**java版本数据结构.zip**](#rhhqzl)                      
++ [**《算法设计手册》第2版 中文版330页.pdf.pdf**](#rhhqzl)         
++ [**程序员面试攻略+第2版.pdf**](#rhhqzl)                     
++ [**程序员自我修养.pdf**](#rhhqzl)                         
++ [**妙趣横生的算法  C语言实现.pdf**](#rhhqzl)                  
++ [**算法导论（第三版）.pdf**](#rhhqzl)                       
++ [**挑战程序设计竞赛(第1版).pdf**](#rhhqzl)                   
          
- ### <a id="linuxrm" >[10、linux入门、运维、嵌入式、linux内核、linux驱动、ARM、编译原理方向电子书大全](#linuxrm)</a> <a id="linuxrm" ></a>  
- + **Linux就该这么学.pdf**                                               
-+ **Linux命令行大全.pdf**                                               
-+ **Linux入门很简单.pdf**                                               
-+ **鸟哥的linux私房菜基础篇（第四版）.pdf**                                      
-+ **LINUX+SHELL脚本攻略(中文版带书签).pdf**                                  
-+ **Linux运维入门到高级 全套系列.pdf**                                        
-+ **鸟哥的Linux私房菜服务器架设篇(第三版).pdf**                                   
-+ **深入理解计算机系统（原书第三版3）.pdf**                                        
-+ **现代操作系统（第3版）.pdf**                                              
-+ **Linux C 从入门到精通.pdf**                                           
-+ **Linux内核设计与实现（第三版）.pdf**                                        
-+ **Linux内核文档.pdf**                                                
-+ **Linux内核源代码情景分析.pdf**                                           
-+ **Linux设备驱动开发详解：基于最新的Linux 4.0内核.pdf**                           
-+ **Linux系统编程中文版.pdf**                                             
-+ **Linux系统管理技术手册(第二版)].(美)奈米斯.扫描版.pdf**                           
-+ **[Linux核心应用命令速查].曹江华&amp;amp;方建国.扫描版(ED2000.COM).pdf**          
-+ **深入Linux设备驱动程序内核机制.pdf**                                        
-+ **深入理解linux内核（中文第三版）.pdf**                                       
-+ **ARM嵌入式系统开发：软件设计与优化.pdf**                                       
-+ **《ARM体系结构与编程》杜春雷.pdf**                                          
-+ **编译原理（第2版）.pdf**                                                
+ ### <a id="linuxrm" >10、linux入门、运维、嵌入式、linux内核、linux驱动、ARM、编译原理方向电子书大全</a>  
++ [**Linux就该这么学.pdf**](#rhhqzl)                                          
++ [**Linux命令行大全.pdf**](#rhhqzl)                                          
++ [**Linux入门很简单.pdf**](#rhhqzl)                                          
++ [**鸟哥的linux私房菜基础篇（第四版）.pdf**](#rhhqzl)                                 
++ [**LINUX+SHELL脚本攻略(中文版带书签).pdf**](#rhhqzl)                             
++ [**Linux运维入门到高级 全套系列.pdf**](#rhhqzl)                                   
++ [**鸟哥的Linux私房菜服务器架设篇(第三版).pdf**](#rhhqzl)                              
++ [**深入理解计算机系统（原书第三版3）.pdf**](#rhhqzl)                                   
++ [**现代操作系统（第3版）.pdf**](#rhhqzl)                                         
++ [**Linux C 从入门到精通.pdf**](#rhhqzl)                                      
++ [**Linux内核设计与实现（第三版）.pdf**](#rhhqzl)                                   
++ [**Linux内核文档.pdf**](#rhhqzl)                                           
++ [**Linux内核源代码情景分析.pdf**](#rhhqzl)                                      
++ [**Linux设备驱动开发详解：基于最新的Linux 4.0内核.pdf**](#rhhqzl)                      
++ [**Linux系统编程中文版.pdf**](#rhhqzl)                                        
++ [**Linux系统管理技术手册(第二版).pdf**](#rhhqzl)                      
++ [**[Linux核心应用命令速查].曹江华&amp;amp;方建国.扫描版(ED2000.COM).pdf**](#rhhqzl)     
++ [**深入Linux设备驱动程序内核机制.pdf**](#rhhqzl)                                   
++ [**深入理解linux内核（中文第三版）.pdf**](#rhhqzl)                                  
++ [**ARM嵌入式系统开发：软件设计与优化.pdf**](#rhhqzl)                                  
++ [**《ARM体系结构与编程》杜春雷.pdf**](#rhhqzl)                                     
++ [**编译原理（第2版）.pdf**](#rhhqzl)                                                                     
  
-### <a id="linuxcc++" >[11、linux C/C++、嵌入式、运维方向电子书大全](#linuxcc)</a> <a id="linuxcc" ></a>  
- + **UNIX环境高级编程_第二版中文.pdf**                           
-+ **UNIX网络编程卷1：套接字联网API（第3版）.pdf**                   
-+ **UNIX网络编程卷2：进程间通信.pdf**                           
-+ **UNIX编程艺术（中文）.pdf**                               
-+ **LinuxC编程一站式学习.pdf**                              
-+ **Linux+UNIX系统编程手册.pdf**                           
-+ **linux的IO编程pub.pdf**                              
-+ **linux多线程服务端编程 (1).tar**                          
-+ **linux高性能服务端编程.tar**                              
-+ **linux核心编程_free.pdf**                             
-+ **linux系统编程学习.pdf**                                
-+ **Nginx高性能Web服务器详解.pdf**                           
-+ **《Apache服务器配置与使用工作笔记》.(王江伟).[PDF].&ckook.pdf**    
-+ **深入理解Linux内核 中文版.pdf**                            
-+ **深入理解LINUX网络技术内幕.zip**                            
-+ **汇编语言.pdf**                                       
-+ **深入理解Nginx：模块开发与架构解析（第2版）.pdf**                   
-+ **深入理解Nginx模块开发与架构解析.pdf**                         
+### <a id="linuxcc++" >11、linux C/C++、嵌入式、运维方向电子书大全</a>  
++ [**UNIX环境高级编程_第二版中文.pdf**](#rhhqzl)                                 
++ [**UNIX网络编程卷1：套接字联网API（第3版）.pdf**](#rhhqzl)                         
++ [**UNIX网络编程卷2：进程间通信.pdf**](#rhhqzl)                                 
++ [**UNIX编程艺术（中文）.pdf**](#rhhqzl)                                     
++ [**LinuxC编程一站式学习.pdf**](#rhhqzl)                                    
++ [**Linux+UNIX系统编程手册.pdf**](#rhhqzl)                                 
++ [**linux的IO编程pub.pdf**](#rhhqzl)                                    
++ [**linux多线程服务端编程 (1).tar**](#rhhqzl)                                
++ [**linux高性能服务端编程.tar**](#rhhqzl)                                    
++ [**linux核心编程_free.pdf**](#rhhqzl)                                   
++ [**linux系统编程学习.pdf**](#rhhqzl)                                      
++ [**Nginx高性能Web服务器详解.pdf**](#rhhqzl)                                 
++ [**《Apache服务器配置与使用工作笔记》.(王江伟).[PDF].&ckook.pdf**](#rhhqzl)          
++ [**深入理解Linux内核 中文版.pdf**](#rhhqzl)                                  
++ [**深入理解LINUX网络技术内幕.zip**](#rhhqzl)                                  
++ [**汇编语言.pdf**](#rhhqzl)                                             
++ [**深入理解Nginx：模块开发与架构解析（第2版）.pdf**](#rhhqzl)                         
++ [**深入理解Nginx模块开发与架构解析.pdf**](#rhhqzl)                                          
  
  
- ### <a id="mysql" >[12、数据库方向电子书大全](#mysql)</a> <a id="mysql" ></a> 
- + **MySQL入门很简单.pdf**                      
-+ **深入浅出MySQL.pdf**                       
-+ **经典SQL语句大全.pdf**                       
-+ **MySQL必知必会.pdf**                       
-+ **MySQL技术内幕：SQL编程+.姜承尧.扫描版+电子书.pdf**    
-+ **MySQL+5权威指南(第3版).pdf**                
-+ **MySQL性能调优与架构设计--全册.pdf**              
-+ **Oracle+11g+从入门到精通.pdf**               
-+ **SQL 经典实例.pdf**                        
-+ **高性能MySQL+第3版+中文+.pdf**                
-+ **数据库系统基础教程(原书第3版)中文版.pdf**             
-+ **MongoDB权威指南（第2版）.pdf**   
+ ### <a id="mysql" >12、数据库方向电子书大全</a> 
++ [**MySQL入门很简单.pdf**](#rhhqzl)                    
++ [**深入浅出MySQL.pdf**](#rhhqzl)                     
++ [**经典SQL语句大全.pdf**](#rhhqzl)                     
++ [**MySQL必知必会.pdf**](#rhhqzl)                     
++ [**MySQL技术内幕：SQL编程+.姜承尧.扫描版+电子书.pdf**](#rhhqzl)  
++ [**MySQL+5权威指南(第3版).pdf**](#rhhqzl)              
++ [**MySQL性能调优与架构设计--全册.pdf**](#rhhqzl)            
++ [**Oracle+11g+从入门到精通.pdf**](#rhhqzl)             
++ [**SQL 经典实例.pdf**](#rhhqzl)                      
++ [**高性能MySQL+第3版+中文+.pdf**](#rhhqzl)              
++ [**数据库系统基础教程(原书第3版)中文版.pdf**](#rhhqzl)           
++ [**MongoDB权威指南（第2版）.pdf**](#rhhqzl)              
 
             
-### <a id="hadoop" >[13、大数据方向电子书大全](#hadoop)</a> <a id="hadoop" ></a> 
-+ **Big Data（英文全版）.pdf**                                       
-+ **Hadoop权威指南(中文版).pdf**                                      
-+ **Hadoop权威指南.pdf**                                           
-+ **Hive编程指南 PDF 中文高清版.pdf**                                   
-+ **Hadoop实战第2版-陆嘉恒.pdf**                                      
-+ **R语言预测实战.rar**                                              
-+ **Spark_SQL大数据实例开发教程(1).7z**                                 
-+ **Spark大数据处理：技术、应用与性能优化(全).pdf**                             
-+ **Spark大数据实例开发教程(1).7z**                                     
-+ **Spark核心源码分析与开发实战**                                         
-+ **Spark机器学习.zip**                                            
-+ **Spark快速大数据分析.zip**                                         
-+ **Spark内核机制解析及性能调优(1).7z**                                   
-+ **《大数据处理之道》.pdf**                                            
-+ **大数据技术原理与应用：概念、存储、处理、分析与应用(第2版).pdf**                       
-+ **漫画统计学入门.pdf**                                              
-+ **社交大数据挖掘.7z**                                               
-+ **统计学+pdf.pdf**                                              
+### <a id="hadoop" >13、大数据方向电子书大全</a> 
++ [**Big Data（英文全版）.pdf**](#rhhqzl)                                      
++ [**Hadoop权威指南(中文版).pdf**](#rhhqzl)                                     
++ [**Hadoop权威指南.pdf**](#rhhqzl)                                          
++ [**Hive编程指南 PDF 中文高清版.pdf**](#rhhqzl)                                  
++ [**Hadoop实战第2版-陆嘉恒.pdf**](#rhhqzl)                                     
++ [**R语言预测实战.rar**](#rhhqzl)                                             
++ [**Spark_SQL大数据实例开发教程(1).7z**](#rhhqzl)                                
++ [**Spark大数据处理：技术、应用与性能优化(全).pdf**](#rhhqzl)                            
++ [**Spark大数据实例开发教程(1).7z**](#rhhqzl)                                    
++ [**Spark核心源码分析与开发实战**](#rhhqzl)                                        
++ [**Spark机器学习.zip**](#rhhqzl)                                           
++ [**Spark快速大数据分析.zip**](#rhhqzl)                                        
++ [**Spark内核机制解析及性能调优(1).7z**](#rhhqzl)                                  
++ [**《大数据处理之道》.pdf**](#rhhqzl)                                           
++ [**大数据技术原理与应用：概念、存储、处理、分析与应用(第2版).pdf**](#rhhqzl)                      
++ [**漫画统计学入门.pdf**](#rhhqzl)                                                                            
  
  
  
