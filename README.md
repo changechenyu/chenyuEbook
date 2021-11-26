@@ -479,6 +479,23 @@
 + [**逆向工程权威指南（上下册）.pdf**](#rhhqzl)                                                           
 + [**捉虫日记.pdf**](#rhhqzl)                                                                    
 
+ ### <a id="windows" >22、windows</a> 
++ [**47098-Windows+PowerShell实战指南（第3版）.pdf**](#rhhqzl)                     
++ [**549950 WINDOWS程序设计 第六版.pdf**](#rhhqzl)                                
++ [**directx从入门到精通(direct简介).pdf**](#rhhqzl)                               
++ [**Microsoft.C#.Windows程序设计(上下册)[jb51.net].pdf**](#rhhqzl)               
++ [**Shellcoder编程揭秘.pdf**](#rhhqzl)                                        
++ [**Windows PE权威指南.pdf**](#rhhqzl)                                        
++ [**Windows程序设计 第2版 扫描版.pdf**](#rhhqzl)                                   
++ [**Windows核心编程 第5版.pdf**](#rhhqzl)                                       
++ [**Windows环境下32位汇编语言程序设计（典藏版）.pdf**](#rhhqzl)                            
++ [**Windows内核情景分析.pdf**](#rhhqzl)                                         
++ [**Windows驱动开发技术详解.pdf**](#rhhqzl)                                       
++ [**Windows图形编程.pdf**](#rhhqzl)                                           
++ [**Windows系统编程(原书第4版).pdf**](#rhhqzl)                                    
++ [**Windows应用高级编程——C#编程篇[jb51.net].pdf**](#rhhqzl)                        
++ [**[Microsoft Press] Programming Windows 6th Edition.pdf**](#rhhqzl)     
++ [**[Windows程序设计(第5版,珍藏版)].Charles.Petzold.扫描版.pdf**](#rhhqzl)            
 
  ### [五、资料脑图:](#zlnt) <a id="zlnt" ></a>
 ![ebooks](https://user-images.githubusercontent.com/14906970/143410747-c7663cba-4441-4561-bfe5-d57322aa2ebe.png)
