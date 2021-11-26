@@ -311,7 +311,9 @@
 + [**Redis开发与运维.pdf**](#rhhqzl)          
 + [**Redis设计与实现.pdf**](#rhhqzl)          
 + [**Docker从入门到实践.pdf**](#rhhqzl)        
- 
++ [**Flume构建高可用、可扩展的海量日志采集系统pdf**](#rhhqzl)    
+
+
 ### <a id="openstack" >14、云计算电子书大全</a> 
 + [**云计算-概念、技术与架构.zip**](#rhhqzl)                                           
 + [**云计算核心技术剖析.pdf**](#rhhqzl)                                              
