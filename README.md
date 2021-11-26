@@ -300,7 +300,17 @@
 + [**《大数据处理之道》.pdf**](#rhhqzl)                                           
 + [**大数据技术原理与应用：概念、存储、处理、分析与应用(第2版).pdf**](#rhhqzl)                      
 + [**漫画统计学入门.pdf**](#rhhqzl)                                                                            
- 
++ [**统计学习方法(李航).pdf**](#rhhqzl)          
++ [**线性代数和概率统计.pdf**](#rhhqzl)           
++ [**Hbase 实战.pdf**](#rhhqzl)            
++ [**hbase权威指南中文完整版pdf**](#rhhqzl)       
++ [**Kafka权威指南.pdf**](#rhhqzl)           
++ [**Kubernetes权威指南**](#rhhqzl)          
++ [**Redis实战.pdf**](#rhhqzl)             
++ [**Redis入门指南（第2版）.pdf**](#rhhqzl)      
++ [**Redis开发与运维.pdf**](#rhhqzl)          
++ [**Redis设计与实现.pdf**](#rhhqzl)          
++ [**Docker从入门到实践.pdf**](#rhhqzl)        
  
 ### <a id="openstack" >14、云计算电子书大全</a> 
 + [**云计算-概念、技术与架构.zip**](#rhhqzl)                                           
