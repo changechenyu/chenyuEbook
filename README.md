@@ -421,7 +421,7 @@
 + [**统计学习方法(李航).pdf**](#rhhqzl)                           
 + [**math-basics.rar**](#rhhqzl)                          
  
- ### <a id="jqr" >20、机器人开发方向电子书</a> 
+ ### <a id="jqr" >20、机器人开发方向电子书大全</a> 
 + [**Effective.Robotics.Programming.with.ROS.3rd.Edition.pdf**](#rhhqzl)                                                   
 + [**LaValle - 2006 - Planning Algorithms.pdf**](#rhhqzl)                                                                  
 + [**Learning ROS for Robotics Programming - Second Edition.pdf**](#rhhqzl)                                                
@@ -457,7 +457,7 @@
 + [**RosNavTuningCn(ROS 导航功能调优指南).pdf**](#rhhqzl)                                                                          
 + [**ROSWIKI官网学习资料.pdf**](#rhhqzl)     
 
- ### <a id="aqynx" >21、安全与逆向</a> 
+ ### <a id="aqynx" >21、安全与逆向方向电子书大全</a> 
 + [**Android安全攻防实践.pdf**](#rhhqzl)                                                           
 + [**Android软件安全权威指南_随书代码.zip**](#rhhqzl)                                                    
 + [**HTTPS权威指南：在服务器和Web应用上部署SSL_TLS和PKI.pdf**](#rhhqzl)                                      
@@ -479,7 +479,7 @@
 + [**逆向工程权威指南（上下册）.pdf**](#rhhqzl)                                                           
 + [**捉虫日记.pdf**](#rhhqzl)                                                                    
 
- ### <a id="windows" >22、windows</a> 
+ ### <a id="windows" >22、windows开发方向电子书大全</a> 
 + [**47098-Windows+PowerShell实战指南（第3版）.pdf**](#rhhqzl)                     
 + [**549950 WINDOWS程序设计 第六版.pdf**](#rhhqzl)                                
 + [**directx从入门到精通(direct简介).pdf**](#rhhqzl)                               
@@ -495,7 +495,38 @@
 + [**Windows系统编程(原书第4版).pdf**](#rhhqzl)                                    
 + [**Windows应用高级编程——C#编程篇[jb51.net].pdf**](#rhhqzl)                        
 + [**[Microsoft Press] Programming Windows 6th Edition.pdf**](#rhhqzl)     
-+ [**[Windows程序设计(第5版,珍藏版)].Charles.Petzold.扫描版.pdf**](#rhhqzl)            
++ [**[Windows程序设计(第5版,珍藏版)].Charles.Petzold.扫描版.pdf**](#rhhqzl) 
+
+ ### <a id="windows" >22、游戏开发方向电子书大全</a> 
++ [**GPU gems 1.pdf**](#rhhqzl)                                                                 
++ [**GPU Gems 2.pdf**](#rhhqzl)                                                                 
++ [**GPU Gems 3.pdf**](#rhhqzl)                                                                 
++ [**GPU Pro 1.pdf**](#rhhqzl)                                                                  
++ [**GPU Pro 2.pdf**](#rhhqzl)                                                                  
++ [**GPU Pro 3.pdf**](#rhhqzl)                                                                  
++ [**GPU Pro 4.pdf**](#rhhqzl)                                                                  
++ [**GPU Pro 5.pdf**](#rhhqzl)                                                                  
++ [**GPU Pro 6.pdf**](#rhhqzl)                                                                  
++ [**3D数学基础+图形与游戏开发.pdf**](#rhhqzl)                                                             
++ [**3D游戏与计算机图形学中的数学方法.pdf**](#rhhqzl)                                                          
++ [**计算几何--算法与应用(第三版).pdf**](#rhhqzl)                                                           
++ [**游戏编程精粹7.pdf**](#rhhqzl)                                                                    
++ [**游戏开发物理学.pdf**](#rhhqzl)                                                                    
++ [**Game Engine Architecture.pdf**](#rhhqzl)                                                   
++ [**Game Engine Gems 1-Print.pdf**](#rhhqzl)                                                   
++ [**Game Engine Gems 2-Print_font11(colour).pdf**](#rhhqzl)                                    
++ [**游戏引擎架构.pdf**](#rhhqzl)                                                                     
++ [**Box2D v2.3.0 用户手册.pdf**](#rhhqzl)                                                          
++ [**Game Programming Patterns 游戏编程模式.pdf**](#rhhqzl)                                           
++ [**Havok_2012-2-0_Content_Tools手册汉化.CHM**](#rhhqzl)                                           
++ [**Jesse Schell - The Art of Game Design A Book of Lenses .pdf**](#rhhqzl)                    
++ [**OpenGL Programming Guide 8th(4.3).pdf**](#rhhqzl)                                          
++ [**Physically+Based+Rendering+Third+Edition.zip**](#rhhqzl)                                   
++ [**Real-Time Rendering, Third Edition.pdf**](#rhhqzl)                                         
++ [**Unity Shader入门精要.pdf**](#rhhqzl)                                                           
++ [**WebGL编程指南.pdf**](#rhhqzl)                                                                  
++ [**《Python Cookbook》第三版中文v3.0.0.pdf**](#rhhqzl)                                               
++ [**重构，改善既有代码的设计（中文版，Martin+Fowler+着）.pdf**](#rhhqzl)                                                    
 
  ### [五、资料脑图:](#zlnt) <a id="zlnt" ></a>
 ![ebooks](https://user-images.githubusercontent.com/14906970/143410747-c7663cba-4441-4561-bfe5-d57322aa2ebe.png)
