@@ -302,7 +302,38 @@
 + [**漫画统计学入门.pdf**](#rhhqzl)                                                                            
  
  
- 
+ ### <a id="hadoop" >14、云计算电子书大全</a> 
++ [**云计算-概念、技术与架构.zip**](#rhhqzl)                                           
++ [**云计算核心技术剖析.pdf**](#rhhqzl)                                              
++ [**云计算架构技术与实践+第2版.pdf**](#rhhqzl)                                         
++ [**云计算与分布式系统：从并行处理到物联网 (1).pdf**](#rhhqzl)                                
++ [**Open Stack设计与实现_英特尔开源技术中心编著_北京：电子工业出版社.pdf**](#rhhqzl)                 
++ [**Docker+容器与容器云（第2版）.pdf**](#rhhqzl)                                     
++ [**Docker从入门到实践.pdf**](#rhhqzl)                                           
++ [**Kubernetes权威指南（纪念版）.zip**](#rhhqzl)   
+
+                                
+ ### <a id="hadoop" >15、区块链方向电子书大全</a> 
++ [**区块链  新经济蓝图及导读.pdf**](#rhhqzl)                                     
++ [**区块链 从数字货币到信用社会.pdf**](#rhhqzl)                                    
++ [**区块链 重塑经济与世界.pdf**](#rhhqzl)                                       
++ [**区块链：技术驱动金融.pdf**](#rhhqzl)                                        
++ [**区块链革命 比特币底层技术如何改变货币.pdf**](#rhhqzl)                               
++ [**区块链技术指南(邹均).pdf**](#rhhqzl)                                       
++ [**区块链技术指南-v2.pdf**](#rhhqzl)                                        
++ [**区块链将如何重新定义世界.pdf**](#rhhqzl)                                      
++ [**区块链项目开发指南 (区块链技术丛书).pdf**](#rhhqzl)                               
++ [**区块链原理、设计与应用.pdf**](#rhhqzl)                                       
++ [**深度探索区块链 .pdf**](#rhhqzl)                                          
++ [**图解区块链.pdf**](#rhhqzl)                                             
++ [**以太坊白皮书中文版.pdf**](#rhhqzl)                                         
++ [**以太坊官方文档中文版.pdf**](#rhhqzl)                                        
++ [**精通比特币.pdf**](#rhhqzl)                                             
++ [**精通比特币中文版.pdf**](#rhhqzl)                                          
++ [**精通以太坊 （中文版）.zip**](#rhhqzl)                                       
++ [**比特币：一个虚幻而真实的金融世界.pdf**](#rhhqzl)                                  
++ [**《以太坊技术详解与实战》_sample.pdf等2个文件.zip**](#rhhqzl)                      
++ [**web3.js API中文文档.pdf**](#rhhqzl)                                   
  
  
  
