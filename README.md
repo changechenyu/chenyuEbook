@@ -13,7 +13,7 @@
 |  [Maven](#jj) |[C/C++](#c++) |[STL](#jj) |[Go](#phpgo) | [PHP](#phpgo) | [C#](#phpgo) |[数据结构](#jjjg) |[算法](#jjjg)  | 
 |  [linux](#linuxrm)  | [linux c/c++](#linuxcc++) |[linux驱动](#jj) |[linux内核](#jj) |[Unix网络编程](#jj) | [Aupe](#jj) | [编译原理](#jj) |[ARM](#jj) |
 |  [TCP/IP](#jj)  | [HTTP](#jj) |[web性能](#jj) |[计算机网络](#jj) |[统计学](#jj) | [线性代数](#jj) | [概率论](#jj) |[微积分](#jj) |
-|  [运维](#jj) |[嵌入式](#jj)| [HBase](#jj)  | [Kafka](#jj) |[kubernetes](#jj) |[Flume](#android) |[可视化](#jj) | [汇编语言](#jj) | 
+|  [运维](#jj) |[嵌入式](#jj)| [HBase](#jj)  | [Kafka](#jj) |[kubernetes](#jj) |[Flume](#android) |[PyTorch](#jj) | [汇编语言](#jj) | 
 |  [高等数学](#jj)  | [设计模式](#jj) |[es6](#jj) |[mysql](#jj) |[oracle](#jj) | [大数据](#jj) | [Hadoop](#hadoop) |[Hive](#jj) |
 |  [spark](#jj)  | [R语言](#jj) |[Python](#python) |[云计算](#jj) |[OpenStack](#jj) | [物联网](#jj) | [xshell](#jj) |[深度学习](#jj) |
 |  [机器学习](#jj)  | [Matlab](#jj) |[TensorFlow](#jj) |[数据挖掘](#jj) |[推荐系统](#jj) | [计算机视觉](#jj) | [OpenCV3](#jj) |[图像处理](#jj) |
@@ -356,7 +356,9 @@
 + [**机器学习初步与微积分概率论.pdf**](#rhhqzl)                                  
 + [**机器学习基础.pdf**](#rhhqzl)                                         
 + [**机器学习实战.pdf**](#rhhqzl)                                         
-+ [**深度学习(Deep Learning中文版).pdf**](#rhhqzl)                         
++ [**深度学习(Deep Learning中文版).pdf**](#rhhqzl)   
++ [**PyTorch官方教程中文版.pdf**](#rhhqzl)         
++ [**深度学习框架PyTorch：入门与实践 .pdf**](#rhhqzl)                         
 + [**Python机器学习经典实例.pdf**](#rhhqzl)                                 
 + [**Python数据分析与挖掘实战.pdf**](#rhhqzl)                                
 + [**zw_数据挖掘概念与技术 第三版(中文版+英文版).zip**](#rhhqzl)                      
