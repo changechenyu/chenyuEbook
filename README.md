@@ -13,7 +13,7 @@
 |  [Maven](#jj) |[C/C++](#c++) |[STL](#jj) |[Go](#phpgo) | [PHP](#phpgo) | [C#](#phpgo) |[数据结构](#jjjg) |[算法](#jjjg)  | 
 |  [linux/运维](#linuxrm)  | [linux c/c++](#linuxcc++) |[linux驱动](#jj) |[linux内核](#jj) |[Unix网络编程](#jj) | [Aupe](#jj) | [编译原理](#jj) |[ARM](#jj) |
 |  [TCP/IP](#jj)  | [HTTP](#jj) |[web性能](#jj) |[计算机网络](#jj) |[统计学](#jj) | [线性代数](#jj) | [概率论](#jj) |[微积分](#jj) |
-|  [高等数学](#jj)  | [设计模式](#jj) |[es6](#jj) |[mysql](#jj) |[oracle](#jj) | [大数据](#jj) | [Hadoop](#jj) |[Hive](#jj) |
+|  [高等数学](#jj)  | [设计模式](#jj) |[es6](#jj) |[mysql](#jj) |[oracle](#jj) | [大数据](#jj) | [Hadoop](#hadoop) |[Hive](#jj) |
 |  [spark](#jj)  | [R语言](#jj) |[Python](#python) |[云计算](#jj) |[OpenStack](#jj) | [物联网](#jj) | [xshell](#jj) |[深度学习](#jj) |
 |  [机器学习](#jj)  | [Matlab](#jj) |[TensorFlow](#jj) |[数据挖掘](#jj) |[推荐系统](#jj) | [计算机视觉](#jj) | [OpenCV3](#jj) |[图像处理](#jj) |
 |  [模式分类](#jj) |[自然语言处理](#jj)| [机器人开发](#jj)  | [ROS系统](#jj) |[运动规划和控制](#jj) |[机器建模](#jj) |[ROSWIKI](#jj) | [导航调优](#jj) | 
@@ -268,8 +268,40 @@
 + **深入理解Nginx模块开发与架构解析.pdf**                         
  
  
- 
- 
+ ### <a id="mysql" >[12、数据库方向电子书大全](#mysql)</a> <a id="mysql" ></a> 
+ + **MySQL入门很简单.pdf**                      
++ **深入浅出MySQL.pdf**                       
++ **经典SQL语句大全.pdf**                       
++ **MySQL必知必会.pdf**                       
++ **MySQL技术内幕：SQL编程+.姜承尧.扫描版+电子书.pdf**    
++ **MySQL+5权威指南(第3版).pdf**                
++ **MySQL性能调优与架构设计--全册.pdf**              
++ **Oracle+11g+从入门到精通.pdf**               
++ **SQL 经典实例.pdf**                        
++ **高性能MySQL+第3版+中文+.pdf**                
++ **数据库系统基础教程(原书第3版)中文版.pdf**             
++ **MongoDB权威指南（第2版）.pdf**   
+
+            
+### <a id="hadoop" >[13、大数据方向电子书大全](#hadoop)</a> <a id="hadoop" ></a> 
++ **Big Data（英文全版）.pdf**                                       
++ **Hadoop权威指南(中文版).pdf**                                      
++ **Hadoop权威指南.pdf**                                           
++ **Hive编程指南 PDF 中文高清版.pdf**                                   
++ **Hadoop实战第2版-陆嘉恒.pdf**                                      
++ **R语言预测实战.rar**                                              
++ **Spark_SQL大数据实例开发教程(1).7z**                                 
++ **Spark大数据处理：技术、应用与性能优化(全).pdf**                             
++ **Spark大数据实例开发教程(1).7z**                                     
++ **Spark核心源码分析与开发实战**                                         
++ **Spark机器学习.zip**                                            
++ **Spark快速大数据分析.zip**                                         
++ **Spark内核机制解析及性能调优(1).7z**                                   
++ **《大数据处理之道》.pdf**                                            
++ **大数据技术原理与应用：概念、存储、处理、分析与应用(第2版).pdf**                       
++ **漫画统计学入门.pdf**                                              
++ **社交大数据挖掘.7z**                                               
++ **统计学+pdf.pdf**                                              
  
  
  
