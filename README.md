@@ -26,8 +26,14 @@
 
 ### [三、如何获取海量资料:](#rhhqzl) <a id="rhhqzl" ></a> 
 ### 加微信公众号【[码莎拉蒂](#msld) <a id="msld" ></a>】(**左图**)，会提示你输入开发方向数字获取，获取失败或急需资源加我微信(**右图**)，本人承诺下面出现的电子书我电脑本地都有，如果你想要的资料下面没有，直接加我微信，我帮你免费找，找计算机开发电子书，就搜微信公众号【[码莎拉蒂](#msld) <a id="msld" ></a>】，提供全网最硬核的[计算机资源服务](#zyfw) <a id="zyfw" >。</a>
+### 本人承若不会让你多加其它微信公众号或者还有其它套路。
 ![image](https://user-images.githubusercontent.com/14906970/143460350-236876a1-e6b5-4743-be9c-ba7ecab8ff7d.png)
 ![image](https://user-images.githubusercontent.com/14906970/143459857-cfee08c6-7034-413a-9e2e-f672bb374c7b.png)
+![N70H ZE73TM1)N`)DH3B 3A](https://user-images.githubusercontent.com/14906970/143860017-9209d2c0-0678-4552-ac46-eb0fdb136119.png)
+
+
+
+
 
 
 ### [四、能提供下载服务的电子书汇总:](#allpdf) <a id="allpdf" ></a>
