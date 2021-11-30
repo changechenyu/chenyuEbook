@@ -29,9 +29,12 @@
 ### 本人承若不会让你多加其它微信公众号或者还有其它套路。
 ![image](https://user-images.githubusercontent.com/14906970/143460350-236876a1-e6b5-4743-be9c-ba7ecab8ff7d.png)
 ![image](https://user-images.githubusercontent.com/14906970/143459857-cfee08c6-7034-413a-9e2e-f672bb374c7b.png)
+
+
+#### 兄弟们，加群，帮你找到组织，需要啥方向的资料或者需要具体哪本pdf资源直接在群里说，有什么需求都可以群里说，提供最优质的服务。
+
+![Z$B3MFHY{Q S4DK@OF0CCU7](https://user-images.githubusercontent.com/14906970/144067982-6635962e-ad89-48ec-9815-649fa8207d4d.png)
 ![N70H ZE73TM1)N`)DH3B 3A](https://user-images.githubusercontent.com/14906970/143860017-9209d2c0-0678-4552-ac46-eb0fdb136119.png)
-
-
 
 
 
