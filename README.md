@@ -31,7 +31,7 @@
 ![image](https://user-images.githubusercontent.com/14906970/143459857-cfee08c6-7034-413a-9e2e-f672bb374c7b.png)
 
 
-#### 兄弟们，加群，帮你找到组织，需要啥方向的资料或者需要具体哪本pdf资源直接在群里说，有什么需求都可以群里说，提供最优质的服务。
+#### 兄弟们，加群，帮你找到组织，需要啥方向的资料或者需要具体哪本pdf资源直接在群里说，有什么需求都可以群里说，嫌弃百度网盘下载慢，可以加我私发（具体的pdf），提供全网最优质的服务，让你享受回家的感觉。
 
 ![Z$B3MFHY{Q S4DK@OF0CCU7](https://user-images.githubusercontent.com/14906970/144067982-6635962e-ad89-48ec-9815-649fa8207d4d.png)
 ![N70H ZE73TM1)N`)DH3B 3A](https://user-images.githubusercontent.com/14906970/143860017-9209d2c0-0678-4552-ac46-eb0fdb136119.png)
