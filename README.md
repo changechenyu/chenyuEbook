@@ -279,8 +279,20 @@
 + [**深入理解Nginx：模块开发与架构解析（第2版）.pdf**](#rhhqzl)                         
 + [**深入理解Nginx模块开发与架构解析.pdf**](#rhhqzl)                                          
  
+
+ ### <a id="mysql" >12、计算机网络方向电子书大全</a> 
++ [**HTTP权威指南.pdf**](#rhhqzl)                    
++ [**TCP_IP详解-卷2.pdf**](#rhhqzl)                     
++ [**TCP_IP详解-卷3.pdf**](#rhhqzl)                     
++ [**TCP-IP详解卷1：协议.pdf**](#rhhqzl)                     
++ [**Web性能权威指南.pdf**](#rhhqzl)  
++ [**计算机网络 第七版.pdf**](#rhhqzl)              
++ [**计算机网络-自顶向下方法第七版.pdf**](#rhhqzl)            
++ [**图解HTTP.pdf**](#rhhqzl)             
++ [**图解TCP_IP_第5版---高清版.pdf**](#rhhqzl)                      
+
  
- ### <a id="mysql" >12、数据库方向电子书大全</a> 
+ ### <a id="mysql" >13、数据库方向电子书大全</a> 
 + [**MySQL入门很简单.pdf**](#rhhqzl)                    
 + [**深入浅出MySQL.pdf**](#rhhqzl)                     
 + [**经典SQL语句大全.pdf**](#rhhqzl)                     
@@ -295,7 +307,7 @@
 + [**MongoDB权威指南（第2版）.pdf**](#rhhqzl)              
 
             
-### <a id="hadoop" >13、大数据方向电子书大全</a> 
+### <a id="hadoop" >14、大数据方向电子书大全</a> 
 + [**Big Data（英文全版）.pdf**](#rhhqzl)                                      
 + [**Hadoop权威指南(中文版).pdf**](#rhhqzl)                                     
 + [**Hadoop权威指南.pdf**](#rhhqzl)                                          
@@ -326,7 +338,7 @@
 + [**Flume构建高可用、可扩展的海量日志采集系统pdf**](#rhhqzl)    
 
 
-### <a id="openstack" >14、云计算电子书大全</a> 
+### <a id="openstack" >15、云计算电子书大全</a> 
 + [**云计算-概念、技术与架构.zip**](#rhhqzl)                                           
 + [**云计算核心技术剖析.pdf**](#rhhqzl)                                              
 + [**云计算架构技术与实践+第2版.pdf**](#rhhqzl)                                         
@@ -337,7 +349,7 @@
 + [**Kubernetes权威指南（纪念版）.zip**](#rhhqzl)   
 
                                 
-### <a id="qkl" >15、区块链方向电子书大全</a> 
+### <a id="qkl" >16、区块链方向电子书大全</a> 
 + [**区块链  新经济蓝图及导读.pdf**](#rhhqzl)                                     
 + [**区块链 从数字货币到信用社会.pdf**](#rhhqzl)                                    
 + [**区块链 重塑经济与世界.pdf**](#rhhqzl)                                       
@@ -359,7 +371,7 @@
 + [**《以太坊技术详解与实战》_sample.pdf等2个文件.zip**](#rhhqzl)                      
 + [**web3.js API中文文档.pdf**](#rhhqzl)                                   
  
-### <a id="aidp" >16、机器学习、深度学习、数据挖掘、matlab方向电子书大全 </a> 
+### <a id="aidp" >17、机器学习、深度学习、数据挖掘、matlab方向电子书大全 </a> 
 + [**《TensorFlow 2.0深度学习算法实战教材》-中文版教材分享.pdf**](#rhhqzl)             
 + [**《机器学习基础教程》中文PDF+英文PDF.rar**](#rhhqzl)                          
 + [**《机器学习实战》.(美)哈林顿(Peter Harrington) .zip**](#rhhqzl)             
@@ -388,7 +400,7 @@
 + [**陈杰《Matlab宝典》.pdf**](#rhhqzl)                                   
 + [**苏金明《Matlab高级编程》.pdf**](#rhhqzl)                                
 
-### <a id="opencv" >17、计算机视觉方向电子书大全 </a> 
+### <a id="opencv" >18、计算机视觉方向电子书大全 </a> 
 + [**OpenCV3 计算机视觉 Python语言实现（第二版） 乔·米尼奇诺 2016.06.pdf**](#rhhqzl)               
 + [**OpenCV入门教程.pdf**](#rhhqzl)                                                 
 + [**python计算机视觉.pdf**](#rhhqzl)                                                
@@ -412,7 +424,7 @@
 + [**Multiple View Geometry in Computer Vision.2nd Edition.pdf**](#rhhqzl)      
 
 
-### <a id="nlp" >18、自然语言处理方向电子书大全</a> 
+### <a id="nlp" >19、自然语言处理方向电子书大全</a> 
 + [**Python自然语言处理实战.pdf**](#rhhqzl)                                       
 + [**数学之美_吴军.pdf**](#rhhqzl)                                              
 + [**统计自然语言处理第二版_ 宗成庆.pdf**](#rhhqzl)                                     
@@ -421,7 +433,7 @@
 + [**Natural Language Processing with PyTorch - 2019.pdf**](#rhhqzl)      
 
 
-### <a id="shuxue" >19、数学知识方向电子书大全</a> 
+### <a id="shuxue" >20、数学知识方向电子书大全</a> 
 + [**[线性代数与概率统计].马丽杰.明杰秀.扫描版.pdf**](#rhhqzl)              
 + [**《概率论与数理统计》浙大版（第四版）教材.pdf**](#rhhqzl)                 
 + [**《概率论与数理统计习题全解指南》.浙大版（第四版）.pdf**](#rhhqzl)            
@@ -432,7 +444,7 @@
 + [**统计学习方法(李航).pdf**](#rhhqzl)                           
 + [**math-basics.rar**](#rhhqzl)                          
  
- ### <a id="jqr" >20、机器人开发方向电子书大全</a> 
+ ### <a id="jqr" >21、机器人开发方向电子书大全</a> 
 + [**Effective.Robotics.Programming.with.ROS.3rd.Edition.pdf**](#rhhqzl)                                                   
 + [**LaValle - 2006 - Planning Algorithms.pdf**](#rhhqzl)                                                                  
 + [**Learning ROS for Robotics Programming - Second Edition.pdf**](#rhhqzl)                                                
@@ -468,7 +480,7 @@
 + [**RosNavTuningCn(ROS 导航功能调优指南).pdf**](#rhhqzl)                                                                          
 + [**ROSWIKI官网学习资料.pdf**](#rhhqzl)     
 
- ### <a id="aqynx" >21、安全与逆向方向电子书大全</a> 
+ ### <a id="aqynx" >22、安全与逆向方向电子书大全</a> 
 + [**Android安全攻防实践.pdf**](#rhhqzl)                                                           
 + [**Android软件安全权威指南_随书代码.zip**](#rhhqzl)                                                    
 + [**HTTPS权威指南：在服务器和Web应用上部署SSL_TLS和PKI.pdf**](#rhhqzl)                                      
@@ -490,7 +502,7 @@
 + [**逆向工程权威指南（上下册）.pdf**](#rhhqzl)                                                           
 + [**捉虫日记.pdf**](#rhhqzl)                                                                    
 
- ### <a id="windows" >22、windows开发方向电子书大全</a> 
+ ### <a id="windows" >23、windows开发方向电子书大全</a> 
 + [**47098-Windows+PowerShell实战指南（第3版）.pdf**](#rhhqzl)                     
 + [**549950 WINDOWS程序设计 第六版.pdf**](#rhhqzl)                                
 + [**directx从入门到精通(direct简介).pdf**](#rhhqzl)                               
@@ -508,7 +520,7 @@
 + [**[Microsoft Press] Programming Windows 6th Edition.pdf**](#rhhqzl)     
 + [**[Windows程序设计(第5版,珍藏版)].Charles.Petzold.扫描版.pdf**](#rhhqzl) 
 
- ### <a id="windows" >22、游戏开发方向电子书大全</a> 
+ ### <a id="windows" >24、游戏开发方向电子书大全</a> 
 + [**GPU gems 1.pdf**](#rhhqzl)                                                                 
 + [**GPU Gems 2.pdf**](#rhhqzl)                                                                 
 + [**GPU Gems 3.pdf**](#rhhqzl)                                                                 
